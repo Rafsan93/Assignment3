@@ -13,7 +13,8 @@ for my codde i used TreeMap data structue. TreeMap is a Red-Black tree based Nav
 
 EXAMPLE OF MY INPUT/OUTPUT FILE (THEY ARE ALSO IN MY Assignment3 RESPOSITORY ALONG WITHTHE PROGRAMM WordFrequencies.java)
 
-/*********************************************************lyrics.txt***************************************************************/
+lyrics.txt:
+
 Starman 
 by David Bowie
 
@@ -84,7 +85,8 @@ La, la, la, la-la, la, la, la
 La, la, la, la-la, la, la, la
 La, la, la, la-la, la, la, la
 
-/*********************************************************output.txt***************************************************************/
+output.txt:
+
  ----jGRASP exec: java WordFrequencies
                                         2
  a                                      7

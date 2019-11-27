@@ -2,13 +2,13 @@
 
 This is a  WordFrequencies java program an class assignment for my CISC 3130 - Data Structure class. 
 
-PROBLEM THAT I HAD TO SOLVE
+PROBLEM THAT I HAD TO SOLVE: 
 I had to write a programm which can take a .txt file of lyrics of a song or a poem or a paragraph from a book. and using my code i need to take that .txt file as an input. using a data structure i have to write a code which can count the appearance of each unique word in the lyrics/poem/paragraph and print the number of appearences of each unique words in a word frequency list. 
 
-SOLUTION 
+SOLUTION:
 Before writing the code first i get the song lyrics of "Starman" by "David Bowie" from the internet and saved that as a .txt file which i will use to analyze in my progre later. for the code section first i import necessary packages for our programm. then use the scanner class to read the lyrics.txt file as an input. it use an if-else statement to count the freqencies of words also it use a for loop to make sure code removes charechtars from a string that are not letters. and the using a data structure it print each unique words from the lyrics.txt file in an alphabetical order along with number of there appearance.
 
-WHAT I USED 
+WHAT I USED:
 for my codde i used TreeMap data structue. TreeMap is a Red-Black tree based NavigableMap implementation. Unlike LinkedHashMap and HashMap this data structure does not use hashing for storing keys. i chosed this perticular data structure mainly because it is simple and it also print output in alphabetical order which looks nice then random word list. HashMap has no ordering when you iterate through it; TreeMap iterates in the natural key order. also in my code i used a for loop and if-else statement. 
 
 EXAMPLE OF MY INPUT/OUTPUT FILE (THEY ARE ALSO IN MY Assignment3 RESPOSITORY ALONG WITHTHE PROGRAMM WordFrequencies.java)
